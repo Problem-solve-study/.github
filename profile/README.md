@@ -10,11 +10,11 @@
   </thead>
   <tbody>
    <tr>
-    <td align="center"><a href="https://github.com/kwonssshyeon"><img src="https://avatars.githubusercontent.com/kwonssshyeon" width="100px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/LES8638"><img src="https://avatars.githubusercontent.com/LES8638" width="100px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/yeochi1201"><img src="https://avatars.githubusercontent.com/yeochi1201" width="100px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaewan1230"><img src="https://avatars.githubusercontent.com/jaewan1230" width="100px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/DoDoGaMaRu"><img src="https://avatars.githubusercontent.com/DoDoGaMaRu" width="100px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kwonssshyeon"><img src="https://avatars.githubusercontent.com/kwonssshyeon" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LES8638"><img src="https://avatars.githubusercontent.com/LES8638" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yeochi1201"><img src="https://avatars.githubusercontent.com/yeochi1201" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jaewan1230"><img src="https://avatars.githubusercontent.com/jaewan1230" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/DoDoGaMaRu"><img src="https://avatars.githubusercontent.com/DoDoGaMaRu" width="60px" alt=""></a></td>
   </tr>
     <tr>
       <td align="center"><a href="https://github.com/kwonssshyeon"><b>kwonssshyeon</b></a></td>
@@ -32,11 +32,11 @@
   </thead>
   <tbody>
      <tr>
-      <td align="center"><a href="https://github.com/Untaini"><img src="https://avatars.githubusercontent.com/Untaini" width="100px" alt=""></a></td>
-      <td align="center"><a href="https://github.com/JunSeok-Yun"><img src="https://avatars.githubusercontent.com/JunSeok-Yun" width="100px" alt=""></a></td>
-      <td align="center"><a href="https://github.com/wgwjh05169"><img src="https://avatars.githubusercontent.com/wgwjh05169" width="100px" alt=""></a></td>
-      <td align="center"><a href="https://github.com/winteeeee"><img src="https://avatars.githubusercontent.com/winteeeee" width="100px" alt=""></a></td>
-      <td align="center"><a href="https://github.com/hmk5940"><img src="https://avatars.githubusercontent.com/hmk5940" width="100px" alt=""></a></td>
+      <td align="center"><a href="https://github.com/Untaini"><img src="https://avatars.githubusercontent.com/Untaini" width="60px" alt=""></a></td>
+      <td align="center"><a href="https://github.com/JunSeok-Yun"><img src="https://avatars.githubusercontent.com/JunSeok-Yun" width="60px" alt=""></a></td>
+      <td align="center"><a href="https://github.com/wgwjh05169"><img src="https://avatars.githubusercontent.com/wgwjh05169" width="60px" alt=""></a></td>
+      <td align="center"><a href="https://github.com/winteeeee"><img src="https://avatars.githubusercontent.com/winteeeee" width="60px" alt=""></a></td>
+      <td align="center"><a href="https://github.com/hmk5940"><img src="https://avatars.githubusercontent.com/hmk5940" width="60px" alt=""></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Untaini"><b>Untaini</b></a></td>
@@ -53,7 +53,7 @@
 ## 🏆 이달의 문제 해결 현황
 <table>
   <thead">
-    <tr> <th width="100px">DATE</th> <th width="80px">권수현</th> <th width="80px">김채일</th> <th width="80px">박주현</th> <th width="80px">박재완</th> <th width="80px">백대환</th> <th width="80px">손현수</th> <th width="80px">윤준석</th> <th width="80px">정현정</th> <th width="80px">힌성민</th> <th width="80px">홍민기</th> </tr>
+    <tr> <th width="60px">DATE</th> <th width="60px">권수현</th> <th width="60px">김채일</th> <th width="60px">박주현</th> <th width="60px">박재완</th> <th width="60px">백대환</th> <th width="60px">손현수</th> <th width="60px">윤준석</th> <th width="60px">정현정</th> <th width="60px">힌성민</th> <th width="60px">홍민기</th> </tr>
   </thead>
   <tbody>
     <tr> <td>03.01. 토</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
