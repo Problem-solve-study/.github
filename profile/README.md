@@ -6,7 +6,7 @@
 ## MEMBERS
 <table>
   <thead>
-    <tr> <th>권수현</th> <th>김채일</th> <th>박주현</th> <th>박재완</th> <th>백대환</th> </tr>
+    <tr> <th width="180px">권수현</th> <th width="180px">김채일</th width="180px"> <th width="180px">박주현</th width="180px"> <th width="180px">박재완</th> <th width="180px">백대환</th> </tr>
   </thead>
   <tbody>
    <tr>
@@ -28,7 +28,7 @@
 
 <table>
   <thead>
-    <tr> <th>손현수</th> <th>윤준석</th> <th>정현정</th> <th>힌성민</th> <th>홍민기</th> </tr>
+    <tr> <th width="180px">손현수</th> <th width="180px">윤준석</th width="180px"> <th width="180px">정현정</th> <th width="180px">힌성민</th> <th width="180px">홍민기</th> </tr>
   </thead>
   <tbody>
      <tr>
@@ -52,8 +52,8 @@
 
 ## 이달의 문제 해결 현황
 <table>
-  <thead>
-    <tr> <th>DATE</th> <th>권수현</th> <th>김채일</th> <th>박주현</th> <th>박재완</th> <th>백대환</th> <th>손현수</th> <th>윤준석</th> <th>정현정</th> <th>힌성민</th> <th>홍민기</th> </tr>
+  <thead">
+    <tr> <th width="100px">DATE</th> <th width="80px">권수현</th> <th width="80px">김채일</th> <th width="80px">박주현</th> <th width="80px">박재완</th> <th width="80px">백대환</th> <th width="80px">손현수</th> <th width="80px">윤준석</th> <th width="80px">정현정</th> <th width="80px">힌성민</th> <th width="80px">홍민기</th> </tr>
   </thead>
   <tbody>
     <tr> <td>03.01. 토</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
