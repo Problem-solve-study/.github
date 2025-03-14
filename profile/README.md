@@ -28,7 +28,7 @@
 
 <table>
   <thead>
-    <tr> <th width="180px">손현수</th> <th width="180px">윤준석</th width="180px"> <th width="180px">정현정</th> <th width="180px">힌성민</th> <th width="180px">홍민기</th> </tr>
+    <tr> <th width="180px">손현수</th> <th width="180px">윤준석</th width="180px"> <th width="180px">정현정</th> <th width="180px">한성민</th> <th width="180px">홍민기</th> </tr>
   </thead>
   <tbody>
      <tr>
