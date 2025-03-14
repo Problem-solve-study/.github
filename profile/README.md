@@ -2,8 +2,8 @@
 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />
 -->
 
-# SSAFY 13기 구미 3반 문제 해결 스터디
-## MEMBERS
+# 🩵 SSAFY 13기 구미 3반 문제 해결 스터디
+## 👥 MEMBERS
 <table>
   <thead>
     <tr> <th width="180px">권수현</th> <th width="180px">김채일</th width="180px"> <th width="180px">박주현</th width="180px"> <th width="180px">박재완</th> <th width="180px">백대환</th> </tr>
@@ -50,7 +50,7 @@
 
 <br/>
 
-## 이달의 문제 해결 현황
+## 🏆 이달의 문제 해결 현황
 <table>
   <thead">
     <tr> <th width="100px">DATE</th> <th width="80px">권수현</th> <th width="80px">김채일</th> <th width="80px">박주현</th> <th width="80px">박재완</th> <th width="80px">백대환</th> <th width="80px">손현수</th> <th width="80px">윤준석</th> <th width="80px">정현정</th> <th width="80px">힌성민</th> <th width="80px">홍민기</th> </tr>
