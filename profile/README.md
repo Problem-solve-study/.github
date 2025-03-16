@@ -53,7 +53,7 @@
 ## 🏆 이달의 문제 해결 현황
 <table>
   <thead">
-    <tr> <th width="60px">DATE</th> <th width="60px">권수현</th> <th width="60px">김채일</th> <th width="60px">박주현</th> <th width="60px">박재완</th> <th width="60px">백대환</th> <th width="60px">손현수</th> <th width="60px">윤준석</th> <th width="60px">정현정</th> <th width="60px">힌성민</th> <th width="60px">홍민기</th> </tr>
+    <tr> <th width="100px">DATE</th> <th width="80px">권수현</th> <th width="80px">김채일</th> <th width="80px">박주현</th> <th width="80px">박재완</th> <th width="80px">백대환</th> <th width="80px">손현수</th> <th width="80px">윤준석</th> <th width="80px">정현정</th> <th width="80px">한성민</th> <th width="80px">홍민기</th> </tr>
   </thead>
   <tbody>
     <tr> <td>03.01. 토</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
