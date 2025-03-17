@@ -1,5 +1,7 @@
 <!--
-<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />
+<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" />
+<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" />
+<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />
 -->
 
 # 🩵 SSAFY 13기 구미 3반 문제 해결 스터디
@@ -58,7 +60,7 @@
   <tbody>
     <tr> <td>03.01. 토</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
     <tr> <td>03.02. 일</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-    <tr> <td>03.03. 월</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+    <tr> <td>03.03. 월</td> <td></td> <td></td> <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /></td> <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /><img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /></td> <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /></td> <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /></td> <td></td> <td></td> <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /></td> <td></td> </tr>
     <tr> <td>03.04. 화</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
     <tr> <td>03.05. 수</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
     <tr> <td>03.06. 목</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
