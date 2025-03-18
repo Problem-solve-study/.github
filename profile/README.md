@@ -267,10 +267,10 @@
       <td class="pjh-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
       <td class="pjw-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
       <td class="pdh-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
-      <td class="shs-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
+      <td class="shs-td"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
       <td class="yjs-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
       <td class="jhj-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
-      <td class="hsm-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
+      <td class="hsm-td"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
       <td class="hmg-td"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span> </td>
     </tr>
     <tr id="0319-tr"> <td> 03.19. 수 </td>
