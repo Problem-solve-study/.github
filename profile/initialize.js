@@ -1,20 +1,9 @@
 const fs = require('fs');
 const { JSDOM } = require('jsdom');
+const { people, levels } = require('./const');
 
 const today = new Date();
 const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
-const people = [
-    { id: "ksh", name: "권수현" },
-    { id: "kci", name: "김채일" },
-    { id: "pjh", name: "박주현" },
-    { id: "pjw", name: "박재완" },
-    { id: "pdh", name: "백대환" },
-    { id: "shs", name: "손현수" },
-    { id: "yjs", name: "윤준석" },
-    { id: "jhj", name: "정현정" },
-    { id: "hsm", name: "한성민" },
-    { id: "hmg", name: "홍민기" }
-];
 
 // 테이블을 이번달로 초기화
 fs.readFile('README.md', 'utf8', (err, data) => {
@@ -46,7 +35,7 @@ fs.readFile('README.md', 'utf8', (err, data) => {
 
         // 사람별 태그
         for (let person of people) {
-            let personTdText = `      <td class='${person.id}-td'> <span class="easy"></span> <span class="normal"></span> <span class="hard"></span> </td>\n`;
+            let personTdText = `      <td class='${person.id}-td'>${levels.map((level) => ` <span class="${level.class}"></span>`).join(" ")} </td>\n`;
             rowText += personTdText;
         }
 
