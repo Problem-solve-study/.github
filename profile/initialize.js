@@ -35,7 +35,7 @@ fs.readFile('README.md', 'utf8', (err, data) => {
 
         // 사람별 태그
         for (let person of people) {
-            let personTdText = `      <td class='${person.id}-td'>${levels.map((level) => ` <span class="${level.class}"></span>`).join(" ")} </td>\n`;
+            let personTdText = `      <td class='${person.id}-td'> <div align='center'>${levels.map((level) => ` <span class="${level.class}"></span>`).join(" ")}</div> </td>\n`;
             rowText += personTdText;
         }
 
