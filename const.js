@@ -17,7 +17,7 @@ const levels = [
     { class: 'hard', tag: 'H', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />'},
 ]
 
-const lastUpdate = 'd1200746ab9b662dbfc1f26f756ded6d70e8fdcd';
+const lastUpdate = '8c4bd92e09b85bf393272c3eb2705939dfb8b675';
 
 module.exports = { people, levels, lastUpdate };
 
