@@ -51,7 +51,7 @@
 
 <br>
 
-## 🏆 이달의 문제 해결 현황
+## 🏆 [이달의 문제](https://github.com/Problem-solve-study/code-store) 해결 현황
 <table>
   <thead>
     <tr> <th width="100px">DATE</th> <th width="80px">권수현</th> <th width="80px">김채일</th> <th width="80px">박주현</th> <th width="80px">박재완</th> <th width="80px">백대환</th> <th width="80px">손현수</th> <th width="80px">윤준석</th> <th width="80px">정현정</th> <th width="80px">한성민</th> <th width="80px">홍민기</th> </tr>
