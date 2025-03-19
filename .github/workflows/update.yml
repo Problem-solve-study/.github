@@ -33,6 +33,7 @@ jobs:
         
     - name: Install dependencies
       run: npm install
+      working-directory: ./util/
       
     - name: Run update js script
       run: node update.js
