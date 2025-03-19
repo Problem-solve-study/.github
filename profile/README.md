@@ -278,10 +278,10 @@
       <td class="kci-td"> <div align="center"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px"></span>  <span class="hard"></span></div> </td>
       <td class="pjh-td"> <div align="center"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
       <td class="pjw-td"> <div align="center"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
-      <td class="pdh-td"> <div align="center"> <span class="easy"></span>  <span class="normal"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px"></span>  <span class="hard"></span></div> </td>
+      <td class="pdh-td"> <div align="center"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px"></span>  <span class="hard"></span></div> </td>
       <td class="shs-td"> <div align="center"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px"></span>  <span class="hard"></span></div> </td>
       <td class="yjs-td"> <div align="center"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
-      <td class="jhj-td"> <div align="center"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
+      <td class="jhj-td"> <div align="center"> <span class="easy"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
       <td class="hsm-td"> <div align="center"> <span class="easy"></span>  <span class="normal"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px"></span>  <span class="hard"></span></div> </td>
       <td class="hmg-td"> <div align="center"> <span class="easy"></span>  <span class="normal"></span>  <span class="hard"></span></div> </td>
     </tr>
