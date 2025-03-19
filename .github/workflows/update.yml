@@ -40,7 +40,7 @@ jobs:
       run: node update.js
       
     - name: Push to origin
-      working-directory: ./profiles/
+      working-directory: ./profile/
       run: |
         git add README.md;
         git config user.name github-actions
