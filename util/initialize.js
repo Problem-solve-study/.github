@@ -6,7 +6,7 @@ const today = new Date();
 const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
 
 // 테이블을 이번달로 초기화
-fs.readFile('README.md', 'utf8', (err, data) => {
+fs.readFile('../profile/README.md', 'utf8', (err, data) => {
     if (err) {
         console.error('파일 읽기 오류:', err);
         return;
@@ -47,7 +47,7 @@ fs.readFile('README.md', 'utf8', (err, data) => {
     let text = dom.serialize();
     text = text.replace(/<html><head><\/head><body>/g, '\n').replace(/<\/body><\/html>/g, '');
 
-    fs.writeFile('README.md', text, 'utf8', (err) => {
+    fs.writeFile('../profile/README.md', text, 'utf8', (err) => {
         if (err) {
             console.error('파일 저장 오류:', err);
         } else {

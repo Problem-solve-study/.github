@@ -38,7 +38,7 @@ async function updateTable() {
     */
     let readmeData;
     try {
-        readmeData = await fs.promises.readFile('README.md', 'utf8');
+        readmeData = await fs.promises.readFile('../profile/README.md', 'utf8');
         console.log('[INFO] README 파일 열기 성공')
     } catch (err) {
         console.error('[ERROR] README 파일 열기 실패: ', err);
@@ -139,7 +139,7 @@ async function updateTable() {
 
     // 리드미 업데이트
     try {
-        await fs.promises.writeFile('README.md', text, 'utf8');
+        await fs.promises.writeFile('../profile/README.md', text, 'utf8');
         succed = true;
         console.log('[INFO] README 파일 저장 성공');
     } catch (err) {
