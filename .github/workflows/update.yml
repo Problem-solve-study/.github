@@ -32,13 +32,15 @@ jobs:
         cache-dependency-path: './util/package-lock.json'
         
     - name: Install dependencies
-      run: npm install
       working-directory: ./util/
+      run: npm install
       
     - name: Run update js script
+      working-directory: ./util/
       run: node update.js
       
     - name: Push to origin
+      working-directory: ./profiles/
       run: |
         git add README.md;
         git config user.name github-actions
