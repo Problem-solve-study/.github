@@ -2,13 +2,13 @@
     <foreignObject width="100%" height="100%">
         <style>
             .size {
-                height: 15.5px;
+                height: 16px;
                 display: flex;
             }
 
             @media (prefers-color-scheme: dark) {
                 .size {
-                    height: 16px;
+                    height: 17px;
                 }
             }
         </style>
