@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { JSDOM } = require('jsdom');
-const { people, levels } = require('./const');
+const { people, levels, blankImgTag } = require('./const');
 
 const today = new Date();
 const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
@@ -49,12 +49,12 @@ async function initializeTable() {
         let rowText = `\n    <tr id='${month}${day}-tr'>`;
 
         // 날짜 태그
-        let dateTdText = ` <td> ${month}.${day}. ${weekday} </td>\n`;
+        let dateTdText = ` <td align='center'> ${month}.${day}. ${weekday} </td>\n`;
         rowText += dateTdText;
 
         // 사람별 태그
         for (let person of people) {
-            let personTdText = `      <td class='${person.id}-td'> <div align='center'>${levels.map((level) => ` <span class="${level.class}"></span>`).join(" ")}</div> </td>\n`;
+            let personTdText = `      <td class='${person.id}-td'><div align='center'>${levels.map((level) => `<span class="${level.class}">${blankImgTag}</span>`).join("")}</div></td>\n`;
             rowText += personTdText;
         }
 
