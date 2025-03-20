@@ -12,12 +12,12 @@ const people = [
 ];
 
 const levels = [
-    { class: 'easy', tag: 'E', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" />'},
-    { class: 'normal', tag: 'N', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" />'},
-    { class: 'hard', tag: 'H', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />'},
+    { class: 'easy', tag: 'E', imgTag: '<img src="silver.svg" height="16px" />'},
+    { class: 'normal', tag: 'N', imgTag: '<img src="gold.svg" height="16px" />'},
+    { class: 'hard', tag: 'H', imgTag: '<img src="platinum.svg" height="16px" />'},
 ]
 
-const lastUpdate = 'e6f01f57bccf5520bf9ab0defcf0c11e189e62fd';
+const lastUpdate = '74ffb6b5399931d4ff26d271cd26c5ab873f13e2';
 
 module.exports = { people, levels, lastUpdate };
 
