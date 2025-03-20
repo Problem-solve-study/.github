@@ -12,12 +12,14 @@ const people = [
 ];
 
 const levels = [
-    { class: 'easy', tag: 'E', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" />'},
-    { class: 'normal', tag: 'N', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" />'},
-    { class: 'hard', tag: 'H', imgTag: '<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />'},
+    { class: 'easy', tag: 'E', imgTag: '<img src="silver.svg" height="24px" />'},
+    { class: 'normal', tag: 'N', imgTag: '<img src="gold.svg" height="23px" />'},
+    { class: 'hard', tag: 'H', imgTag: '<img src="platinum.svg" height="23px" />'},
 ]
 
-const lastUpdate = 'e6f01f57bccf5520bf9ab0defcf0c11e189e62fd';
+const blankImgTag ='<img src="blank.svg" height="23px" />';
 
-module.exports = { people, levels, lastUpdate };
+const lastUpdate = '9b161085b7823d6dc3808f5fd135db314088a7ab';
+
+module.exports = { people, levels, lastUpdate, blankImgTag };
 
