@@ -12,7 +12,7 @@ const people = [
 ];
 
 const levels = [
-    { class: 'easy', tag: 'E', imgTag: '<img src="silver.svg" height="21px" />'},
+    { class: 'easy', tag: 'E', imgTag: '<img src="silver.svg" height="20px" />'},
     { class: 'normal', tag: 'N', imgTag: '<img src="gold.svg" height="20px" />'},
     { class: 'hard', tag: 'H', imgTag: '<img src="platinum.svg" height="20px" />'},
 ]
