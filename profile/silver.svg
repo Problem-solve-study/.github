@@ -1,7 +1,20 @@
 <svg viewBox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
+        <style>
+            .size {
+                height: 15px;
+                display: flex;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                .size {
+                    height: 16px;
+                }
+            }
+        </style>
+
         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 23px; justify-content: center; align-items: end;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 16px;">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="size">
                 <svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 512">
                     <defs>
                         <style>
