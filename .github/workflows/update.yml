@@ -42,6 +42,7 @@ jobs:
       working-directory: ./profile/
       run: |
         git add README.md
+        git add ./util/const.js
         if git diff --cached --quiet; then
           echo "[INFO] 새로 해결된 문제가 없습니다."
           exit 0
