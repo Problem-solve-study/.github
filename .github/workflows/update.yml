@@ -39,9 +39,9 @@ jobs:
       run: node update.js
       
     - name: Push to origin
-      working-directory: ./profile/
+      working-directory: ./
       run: |
-        git add README.md
+        git add ./profile/README.md
         git add ./util/const.js
         if git diff --cached --quiet; then
           echo "[INFO] 새로 해결된 문제가 없습니다."
