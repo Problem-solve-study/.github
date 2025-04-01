@@ -79,6 +79,10 @@ async function updateTable() {
                 return;
             }
             
+            if (commit.author.login == null || commit.commit.message == null || commit.sha == null) {
+                console.log("[ERROR] 새로 읽은 커밋에 로그인, 메시지, SHA 중에 누락된 값이 있어 무시합니다.");
+            }
+
             console.log("[Info] 읽은 커밋: ", commit.author.login, commit.commit.message, commit.sha);
 
             // 과거에 가장 최근에 읽었던 커밋을 만나면 종료
