@@ -97,7 +97,7 @@ async function updateTable() {
             }
 
             const tokens = message.split(' ');
-            if (tokens.length < 2) {
+            if (tokens.length < 3) {
                 console.log("[WARN] 무시 - 잘못된 커밋 메시지: ", message);
                 return;
             }
