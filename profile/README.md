@@ -149,7 +149,7 @@
       <td class="pdh-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="shs-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="yjs-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="jhj-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="jhj-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="hsm-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="hmg-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
@@ -166,16 +166,16 @@
       <td class="hmg-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr id="0410-tr"> <td align="center"> 04.10. 목 </td>
-      <td class="ksh-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="kci-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="ksh-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="kci-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="pjh-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="pjw-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="pdh-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="shs-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="pdh-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="shs-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="yjs-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="jhj-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="hsm-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="hmg-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="jhj-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="hsm-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="hmg-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr id="0411-tr"> <td align="center"> 04.11. 금 </td>
       <td class="ksh-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
