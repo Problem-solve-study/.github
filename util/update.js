@@ -123,6 +123,7 @@ async function updateTable() {
             const person = people.filter(p => p.username === commit.author.login)[0];
             if (person == null) {
                 console.log(`[ERROR] 무시 - ${commit.author.login}와 일치하는 사용자가 없음`);
+                return;
             }
 
             // 테이블 업데이트
