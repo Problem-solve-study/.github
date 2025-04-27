@@ -19,7 +19,7 @@ const levels = [
 
 const blankImgTag ='<img src="blank.svg" height="20px" />';
 
-const lastUpdate = 'f77ed26b5b3aebe3ac9fb875664d8f7e19db89aa';
+const lastUpdate = '053902f3253a482a77012b0d8614e8783334b372';
 
 module.exports = { people, levels, lastUpdate, blankImgTag };
 
