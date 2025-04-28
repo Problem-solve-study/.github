@@ -9,7 +9,6 @@ const weekdays = ['일', '월', '화', '수', '목', '금', '토'];
  * 테이블 초기화
  * 리드미 읽기 -> 테이블 초기화 -> 이번 달 행 삽입 -> 리드미 저장
  */
-
 async function initializeTable() {
     /*
     * 리드미 읽기

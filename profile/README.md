@@ -7,32 +7,35 @@
 ## 👥 MEMBERS
 <table>
   <thead>
-    <tr><th width="180px">권수현</th><th width="180px">김채일</th><th width="180px">박주현</th><th width="180px">박재완</th><th width="180px">백대환</th></tr>
+    <tr><th width="140px">권수현</th><th width="140px">김예빈</th><th width="140px">김채일</th><th width="140px">박기현</th><th width="140px">박주현</th><th width="140px">박재완</th></tr>
   </thead>
   <tbody>
    <tr>
     <td align="center"><a href="https://github.com/kwonssshyeon"><img src="https://avatars.githubusercontent.com/kwonssshyeon" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Yevin-WIN"><img src="https://avatars.githubusercontent.com/Yevin-WIN" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/LES8638"><img src="https://avatars.githubusercontent.com/LES8638" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kiryanchi"><img src="https://avatars.githubusercontent.com/kiryanchi" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/yeochi1201"><img src="https://avatars.githubusercontent.com/yeochi1201" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/jaewan1230"><img src="https://avatars.githubusercontent.com/jaewan1230" width="60px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/DoDoGaMaRu"><img src="https://avatars.githubusercontent.com/DoDoGaMaRu" width="60px" alt=""></a></td>
   </tr>
     <tr>
       <td align="center"><a href="https://github.com/kwonssshyeon"><b>kwonssshyeon</b></a></td>
+      <td align="center"><a href="https://github.com/Yevin-WIN"><b>Yevin-WIN</b></a></td>
       <td align="center"><a href="https://github.com/LES8638"><b>LES8638</b></a></td>
+      <td align="center"><a href="https://github.com/kiryanchi"><b>kiryanchi</b></a></td>
       <td align="center"><a href="https://github.com/yeochi1201"><b>yeochi1201</b></a></td>
       <td align="center"><a href="https://github.com/jaewan1230"><b>jaewan1230</b></a></td>
-      <td align="center"><a href="https://github.com/DoDoGaMaRu"><b>DoDoGaMaRu</b></a></td>
     </tr>
   </tbody>
 </table>
 
 <table>
   <thead>
-    <tr><th width="180px">손현수</th><th width="180px">윤준석</th><th width="180px">정현정</th><th width="180px">한성민</th><th width="180px">홍민기</th></tr>
+    <tr><th width="140px">백대환</th><th width="140px">손현수</th><th width="140px">윤준석</th><th width="140px">정현정</th><th width="140px">한성민</th><th width="140px">홍민기</th></tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
+      <td align="center"><a href="https://github.com/DoDoGaMaRu"><img src="https://avatars.githubusercontent.com/DoDoGaMaRu" width="60px" alt=""></a></td>
       <td align="center"><a href="https://github.com/Untaini"><img src="https://avatars.githubusercontent.com/Untaini" width="60px" alt=""></a></td>
       <td align="center"><a href="https://github.com/JunSeok-Yun"><img src="https://avatars.githubusercontent.com/JunSeok-Yun" width="60px" alt=""></a></td>
       <td align="center"><a href="https://github.com/wgwjh05169"><img src="https://avatars.githubusercontent.com/wgwjh05169" width="60px" alt=""></a></td>
@@ -40,6 +43,7 @@
       <td align="center"><a href="https://github.com/hmk5940"><img src="https://avatars.githubusercontent.com/hmk5940" width="60px" alt=""></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/DoDoGaMaRu"><b>DoDoGaMaRu</b></a></td>
       <td align="center"><a href="https://github.com/Untaini"><b>Untaini</b></a></td>
       <td align="center"><a href="https://github.com/JunSeok-Yun"><b>JunSeok-Yun</b></a></td>
       <td align="center"><a href="https://github.com/wgwjh05169"><b>wgwjh05169</b></a></td>
@@ -54,10 +58,11 @@
 ## 🏆 [이달의 문제](https://github.com/Problem-solve-study/code-store) 해결 현황
 <table>
   <thead>
-    <tr><th width="100px">DATE</th><th width="80px">권수현</th><th width="80px">김채일</th><th width="80px">박주현</th><th width="80px">박재완</th><th width="80px">백대환</th><th width="80px">손현수</th><th width="80px">윤준석</th><th width="80px">정현정</th><th width="80px">한성민</th><th width="80px">홍민기</th></tr>
+    <tr><th width="100px">DATE</th><th width="80px">권수현</th><th width="80px">김예빈</th><th width="80px">김채일</th><th width="80px">박기현</th><th width="80px">박주현</th><th width="80px">박재완</th><th width="80px">백대환</th><th width="80px">손현수</th><th width="80px">윤준석</th><th width="80px">정현정</th><th width="80px">한성민</th><th width="80px">홍민기</th></tr>
   </thead>
   <tbody id="problem-solve-table-body">
     <tr id="0401-tr"> <td align="center"> 04.01. 화 </td>
+      <td class="ksh-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="ksh-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="kci-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="pjh-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
