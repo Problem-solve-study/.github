@@ -95,7 +95,7 @@ function createWeeklyTables(people, document) {
 
     weeks.forEach((weekDates) => {
         // 주간 풀이 현황 테이블
-        let table = '\n<table>';
+        let table = '\n<table style="width: 846px;">';
 
         // 요일 헤더
         let thead = '\n  <thead>';
