@@ -54,7 +54,7 @@ async function updateTable() {
      * 과거에 가장 최근에 읽었던 커밋을 만날 때까지, 혹은 최대 2페이지의 커밋 로그를 읽어 옵니다.
      * author의 git username, 커밋 메시지의 컨벤션을 기반으로 분석합니다.
      */
-    for (let page = 1; page < 2; page++) {
+    for (let page = 1; page < 3; page++) {
         if (isDone) {
             break;
         }
@@ -101,21 +101,13 @@ async function updateTable() {
                 console.log("[WARN] 무시 - 잘못된 커밋 메시지: ", message);
                 return;
             }
-            const dateTag = tokens[1];
-            const levelTag = tokens[2];
-
-            // date로 행을 찾습니다.
-            const dateId = `${dateTag}-tr`
-            const tr = document.getElementById(dateId);
-            if (tr == null) {
-                console.log(`[WARN] 무시 - ${dateTag}로 테이블의 날짜 행을 찾을 수 없음: `, commit.author.login, commit.commit.message);
-                return;
-            }
+            const dateToken = tokens[1];
+            const levelToken = tokens[2];
 
             // level에 해당하는 levelTag를 찾습니다.
-            const level = levels.filter((l) => l.tag == levelTag)[0];
+            const level = levels.filter((l) => l.tag == levelToken)[0];
             if (level == null) {
-                console.log(`[WARN] 무시 - ${levelTag}로 레벨을 찾을 수 없음: `, commit.author.login, commit.commit.message);
+                console.log(`[WARN] 무시 - ${levelToken}에 해당하는 레벨을 찾을 수 없음: `, commit.author.login, commit.commit.message);
                 return;
             }
 
@@ -126,11 +118,17 @@ async function updateTable() {
                 return;
             }
 
+            // commit author의 username과 출제 날짜로 태그를 찾습니다.
+            const cell = document.querySelector(`.${person.id}-tr .date-${dateToken}-td`);
+            if (cell == null) {
+                console.log(`[WARN] 무시 - ${person.id} > ${dateToken}인 테이블 셀을 찾을 수 없음: `, commit.author.login, commit.commit.message);
+                return;
+            }
+
             // 테이블 업데이트
             // 문제 레벨에 해당하는 이미지 태그를 추가합니다.
             console.log("[Info] 커밋 정보 업데이트: ", commit.author.login, commit.commit.message);
-            const personTd = tr.getElementsByClassName(`${person.id}-td`)[0];
-            const levelSpan = personTd.getElementsByClassName(level.class)[0];
+            const levelSpan = cell.getElementsByClassName(level.class)[0];
             levelSpan.innerHTML = level.imgTag;
         });
     }

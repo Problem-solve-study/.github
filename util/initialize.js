@@ -109,13 +109,13 @@ function createWeeklyTables(people, document) {
         let tbody = '  <tbody>\n';
 
         people.forEach(person => {
-            let row = `    <tr id="${person.id}-tr">`;
+            let row = `    <tr class="${person.id}-tr">`;
 
             row += ` <td>${person.name}</td>\n`;
 
             weekDates.forEach(date => {
                 const mmdd = pad(date.getMonth() + 1) + pad(date.getDate());
-                const td = `      <td id="${mmdd}-td">${blankImageTag}</td>\n`;
+                const td = `      <td class="date-${mmdd}-td">${blankImageTag}</td>\n`;
 
                 row += td;
             });
