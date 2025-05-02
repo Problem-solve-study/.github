@@ -62,13 +62,13 @@ function getMonthlyWeeks(year = new Date().getFullYear(), month = new Date().get
     const monthStart = new Date(year, month, 1); // 해당 월 1일
     const monthEnd = new Date(year, month + 1, 0); // 해당 월 말일
 
-    // 시작: 5월 1일 포함 주의 월요일
+    // 시작: 월요일로 시작하는 날짜
     const start = new Date(monthStart);
     const startDay = start.getDay();
     const startOffset = startDay === 0 ? -6 : 1 - startDay;
     start.setDate(start.getDate() + startOffset);
 
-    // 끝: 5월 말 포함 주의 일요일
+    // 끝: 일요일로 끝나는 날짜
     const end = new Date(monthEnd);
     const endDay = end.getDay();
     const endOffset = endDay === 0 ? 0 : 7 - endDay;
@@ -94,6 +94,7 @@ function createWeeklyTables(people, document) {
     const blankImageTag = `<div align='center'>${levels.map((level) => `<span class="${level.class}">${blankImgTag}</span>`).join("")}</div>`;
 
     weeks.forEach((weekDates) => {
+        // 주간 풀이 현황 테이블
         let table = '\n<table>';
 
         // 요일 헤더
@@ -106,30 +107,23 @@ function createWeeklyTables(people, document) {
         table += thead;
         table += '</tr></thead>\n';
 
+        // 사람 & 풀이 현황 바디
         let tbody = '  <tbody>\n';
-
+        // 사람 행 삽입
         people.forEach(person => {
-            let row = `    <tr class="${person.id}-tr">`;
-
-            row += ` <td>${person.name}</td>\n`;
-
+            let row = `    <tr class="${person.id}-tr"> <td>${person.name}</td>\n`;
             weekDates.forEach(date => {
-                const mmdd = pad(date.getMonth() + 1) + pad(date.getDate());
-                const td = `      <td class="date-${mmdd}-td">${blankImageTag}</td>\n`;
-
-                row += td;
+                row += `      <td class="date-${pad(date.getMonth() + 1)}${pad(date.getDate())}-td">${blankImageTag}</td>\n`;
             });
-
             row += "    </tr>\n"
-
             tbody += row;
         });
-
         tbody += '</tbody>';
         table += tbody;
 
         table += '\n</table>';
-
+        
+        // 주간 테이블 삽입
         container.innerHTML += table;
     });
 }

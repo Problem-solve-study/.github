@@ -118,7 +118,7 @@ async function updateTable() {
                 return;
             }
 
-            // commit author의 username과 출제 날짜로 태그를 찾습니다.
+            // 사용자와 출제 날짜로 태그를 찾습니다.
             const cell = document.querySelector(`.${person.id}-tr .date-${dateToken}-td`);
             if (cell == null) {
                 console.log(`[WARN] 무시 - ${person.id} > ${dateToken}인 테이블 셀을 찾을 수 없음: `, commit.author.login, commit.commit.message);
