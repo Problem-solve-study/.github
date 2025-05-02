@@ -54,7 +54,7 @@ async function updateTable() {
      * 과거에 가장 최근에 읽었던 커밋을 만날 때까지, 혹은 최대 2페이지의 커밋 로그를 읽어 옵니다.
      * author의 git username, 커밋 메시지의 컨벤션을 기반으로 분석합니다.
      */
-    for (let page = 1; page < 3; page++) {
+    for (let page = 1; page < 4; page++) {
         if (isDone) {
             break;
         }
