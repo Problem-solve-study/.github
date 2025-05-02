@@ -627,7 +627,7 @@
 
 ## History
 <details>
-  <summary>4월 문제 해결 현황</summary>
+  <summary>과거 문제 해결 현황</summary>
   
   <table>
   <thead>
@@ -994,10 +994,7 @@
       <td class="hsm-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="hmg-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr></tbody>
-</details>
-
-<details>
-  <summary> 3월 문제 해결 현황 </summary>
+    
 
   <table>
   <thead>
