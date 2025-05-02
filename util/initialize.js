@@ -33,11 +33,13 @@ async function initializeTable() {
     const tableContainer = document.getElementById('table-container');
     tableContainer.innerHTML = '';
 
+
     /**
      * 테이블 행 삽입
      * 구조: 사람태그 > 날짜 태그 > 레벨 태그
      */
     createWeeklyTables(people, document);
+
 
     /**
      * 리드미 저장
@@ -86,53 +88,49 @@ function getMonthlyWeeks(year = new Date().getFullYear(), month = new Date().get
 }
 
 function createWeeklyTables(people, document) {
-    const weeks = getMayWeeks();
+    const weeks = getMonthlyWeeks();
     const container = document.getElementById('table-container');
     const dayNames = ['일', '월', '화', '수', '목', '금', '토'];
+    const blankImageTag = `<div align='center'>${levels.map((level) => `<span class="${level.class}">${blankImgTag}</span>`).join("")}</div>`;
 
-    weeks.forEach((weekDates, weekIndex) => {
-        const table = document.createElement('table');
+    weeks.forEach((weekDates) => {
+        let table = '\n<table>';
 
-        const thead = document.createElement('thead');
-        const headerRow = document.createElement('tr');
-
-        const emptyTh = document.createElement('th');
-        headerRow.appendChild(emptyTh);
-
+        // 요일 헤더
+        let thead = '\n  <thead>';
+        let headerRow = '<tr><th></th>';
         weekDates.forEach(date => {
-            const th = document.createElement('th');
-            const mm = pad(date.getMonth() + 1);
-            const dd = pad(date.getDate());
-            const dayName = getDayNameKR(date);
-            th.textContent = `${mm}.${dd} ${dayNames[date.getDay()]}`;
-            headerRow.appendChild(th);
+            headerRow += `<th>${pad(date.getMonth() + 1)}.${pad(date.getDate())} ${dayNames[date.getDay()]}</th>`;
         });
+        thead += headerRow;
+        table += thead;
+        table += '</tr></thead>\n';
 
-        thead.appendChild(headerRow);
-        table.appendChild(thead);
-
-        const tbody = document.createElement('tbody');
+        let tbody = '  <tbody>\n';
 
         people.forEach(person => {
-            const row = document.createElement('tr');
-            row.id = `${person.id}-tr`;
+            let row = `    <tr id="${person.id}-tr">`;
 
-            const nameTd = document.createElement('td');
-            nameTd.textContent = person.name;
-            row.appendChild(nameTd);
+            row += ` <td>${person.name}</td>\n`;
 
             weekDates.forEach(date => {
-            const mmdd = pad(date.getMonth() + 1) + pad(date.getDate());
-            const td = document.createElement('td');
-            td.id = `${mmdd}-td`;
-            row.appendChild(td);
+                const mmdd = pad(date.getMonth() + 1) + pad(date.getDate());
+                const td = `      <td id="${mmdd}-td">${blankImageTag}</td>\n`;
+
+                row += td;
             });
 
-            tbody.appendChild(row);
+            row += "    </tr>\n"
+
+            tbody += row;
         });
 
-        table.appendChild(tbody);
-        container.appendChild(table);
+        tbody += '</tbody>';
+        table += tbody;
+
+        table += '\n</table>';
+
+        container.innerHTML += table;
     });
 }
 
