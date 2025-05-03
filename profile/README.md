@@ -97,7 +97,7 @@
       <td class="date-0504-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="pjh-tr"> <td>박주현</td>
-      <td class="date-0428-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0428-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0429-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0430-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0501-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -120,7 +120,7 @@
       <td class="date-0430-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0501-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0502-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0503-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0503-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0504-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="shs-tr"> <td>손현수</td>
@@ -129,7 +129,7 @@
       <td class="date-0430-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0501-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0502-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0503-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0503-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0504-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="yjs-tr"> <td>윤준석</td>
@@ -156,7 +156,7 @@
       <td class="date-0430-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0501-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0502-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0503-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0503-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0504-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="hmg-tr"> <td>홍민기</td>
