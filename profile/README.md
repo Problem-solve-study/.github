@@ -56,7 +56,15 @@
 <br>
 
 ## 🏆 [이달의 문제](https://github.com/Problem-solve-study/code-store) 해결 현황
+
 <div id="table-container">
+</div>
+
+## History
+<details>
+  <summary>과거 문제 해결 현황</summary>
+
+<div>
 <table style="width: 846px;">
   <thead><tr><th></th><th>04.28 월</th><th>04.29 화</th><th>04.30 수</th><th>05.01 목</th><th>05.02 금</th><th>05.03 토</th><th>05.04 일</th></tr></thead>
   <tbody>
@@ -624,10 +632,6 @@
 </tbody>
 </table></div>
 
-
-## History
-<details>
-  <summary>과거 문제 해결 현황</summary>
   
   <table>
   <thead>
