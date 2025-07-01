@@ -3,6 +3,7 @@
 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" />
 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" />
 -->
+
 # 🩵 SSAFY 13기 구미 3반 문제 해결 스터디
 ## 👥 MEMBERS
 <table>
@@ -58,6 +59,14 @@
 ## 🏆 [이달의 문제](https://github.com/Problem-solve-study/code-store) 해결 현황
 
 <div id="table-container">
+</div>
+
+## History
+<details>
+  <summary>과거 문제 해결 현황</summary>
+
+<div>
+
 <table style="width: 846px;">
   <thead><tr><th></th><th>05.26 월</th><th>05.27 화</th><th>05.28 수</th><th>05.29 목</th><th>05.30 금</th><th>05.31 토</th><th>06.01 일</th></tr></thead>
   <tbody>
@@ -735,13 +744,8 @@
       <td class="date-0706-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
 </tbody>
-</table></div>
-
-## History
-<details>
-  <summary>과거 문제 해결 현황</summary>
-
-<div>
+</table>
+  
 <table style="width: 846px;">
   <thead><tr><th></th><th>04.28 월</th><th>04.29 화</th><th>04.30 수</th><th>05.01 목</th><th>05.02 금</th><th>05.03 토</th><th>05.04 일</th></tr></thead>
   <tbody>
