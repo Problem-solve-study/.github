@@ -79,6 +79,11 @@ async function updateTable() {
                 return;
             }
 
+            if (commit.author == null) {
+                console.log("[WARN] 무시 - 커밋 작성자 없음");
+                return;
+            }
+
             console.log("[Info] 읽은 커밋: ", commit.author.login, commit.commit.message, commit.sha);
 
             // 과거에 가장 최근에 읽었던 커밋을 만나면 종료
