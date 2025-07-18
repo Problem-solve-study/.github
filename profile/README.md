@@ -319,7 +319,7 @@
       <td class="date-0715-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0716-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0717-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0718-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0718-td"><div align="center"><span class="easy"><img src="silver.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0719-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0720-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
@@ -346,7 +346,7 @@
       <td class="date-0715-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0716-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0717-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0718-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0718-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="gold.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0719-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0720-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
