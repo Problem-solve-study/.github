@@ -3,6 +3,7 @@ const people = [
     { id: "kyb", name: "김예빈", username: "Yevin-WIN" },
     { id: "kci", name: "김채일", username: "LES8638" },
     { id: "pkh", name: "박기현", username: "kiryanchi" },
+    { id: "psj", name: "박상준", username: "Tunatos" },
     { id: "pjh", name: "박주현", username: "yeochi1201" },
     { id: "pjw", name: "박재완", username: "jaewan1230" },
     { id: "pdh", name: "백대환", username: "DoDoGaMaRu" },
