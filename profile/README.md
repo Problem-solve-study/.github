@@ -7,7 +7,7 @@
 ## 👥 MEMBERS
 <table>
   <thead>
-    <tr><th width="140px">권수현</th><th width="140px">김예빈</th><th width="140px">김채일</th><th width="140px">박기현</th><th width="140px">박주현</th><th width="140px">박재완</th></tr>
+    <tr><th width="140px">권수현</th><th width="140px">김예빈</th><th width="140px">김채일</th><th width="140px">박기현</th><th width="140px">박상준</th><th width="140px">박주현</th><th width="140px">박재완</th></tr>
   </thead>
   <tbody>
    <tr>
@@ -15,6 +15,7 @@
     <td align="center"><a href="https://github.com/Yevin-WIN"><img src="https://avatars.githubusercontent.com/Yevin-WIN" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/LES8638"><img src="https://avatars.githubusercontent.com/LES8638" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/kiryanchi"><img src="https://avatars.githubusercontent.com/kiryanchi" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/TunaTos"><img src="https://avatars.githubusercontent.com/TunaTos" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/yeochi1201"><img src="https://avatars.githubusercontent.com/yeochi1201" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/jaewan1230"><img src="https://avatars.githubusercontent.com/jaewan1230" width="60px" alt=""></a></td>
   </tr>
@@ -23,6 +24,7 @@
       <td align="center"><a href="https://github.com/Yevin-WIN"><b>Yevin-WIN</b></a></td>
       <td align="center"><a href="https://github.com/LES8638"><b>LES8638</b></a></td>
       <td align="center"><a href="https://github.com/kiryanchi"><b>kiryanchi</b></a></td>
+      <td align="center"><a href="https://github.com/TunaTos"><b>TunaTos</b></a></td>
       <td align="center"><a href="https://github.com/yeochi1201"><b>yeochi1201</b></a></td>
       <td align="center"><a href="https://github.com/jaewan1230"><b>jaewan1230</b></a></td>
     </tr>
